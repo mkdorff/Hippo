@@ -9,6 +9,7 @@ The hippoServer holds a tiny little server you can run on a Raspberry Pi on the 
 
 Below are some screens from the design:
 
-![Item screen](https://raw.githubusercontent.com/mkdorff/Hippo/master/Design/Screens/Event%20Page.png)
+
 ![New Item screen](https://raw.githubusercontent.com/mkdorff/Hippo/master/Design/Screens/Create%20New%20page.png)
 ![Settings screen](https://github.com/mkdorff/Hippo/blob/master/Design/Screens/Settings%20Page.png?raw=true)
+![Item screen](https://raw.githubusercontent.com/mkdorff/Hippo/master/Design/Screens/Event%20Page.png)
